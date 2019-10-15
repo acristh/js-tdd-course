@@ -16,5 +16,9 @@
     "library"
   ],
   "author": "André Araujo <andre.cristiano1975@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+	"url":"https://github.com/acristh/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/acrist/js-tdd-course#readme"
 }
