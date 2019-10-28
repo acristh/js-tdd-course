@@ -18,7 +18,12 @@
   "author": "André Araujo <andre.cristiano1975@gmail.com>",
   "license": "MIT",
   "bugs": {
-	"url":"https://github.com/acristh/js-tdd-course/issues"
+    "url": "https://github.com/acristh/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/acrist/js-tdd-course#readme"
+  "homepage": "https://github.com/acrist/js-tdd-course#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
 }
