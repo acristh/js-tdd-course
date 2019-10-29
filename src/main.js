@@ -5,4 +5,4 @@ const c = "'hdahdahdkajsdjasdaçskldasm' nsnksjaksajdlksajdijsalkdjsakdjsalkjdls
 
 const sum = () => a + b + c;
 
-sum()
+sum();
